@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentApplication</string>
+    <string name="second_activity">Second activity</string>
+</resources>
